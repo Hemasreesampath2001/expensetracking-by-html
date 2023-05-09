@@ -1,0 +1,15 @@
+.row{
+    margin-top:30px;
+}
+.btn-primary{
+    background-color: rosybrown !important;
+    border: 2px solid lawngreen !important;
+    
+}
+.fa-id-card-o{
+    font-size: 50px !important;
+    color:rgb(218, 86, 46);
+}
+.nav-link{
+    color: brown !important;
+}
